@@ -1,0 +1,25 @@
+{
+  "name": "male-swimming",
+  "version": "0.1.0",
+  "description": "Create and edit candid, realistic summer swimwear photographs of adult men, including reference-person and cosplay workflows.",
+  "author": {
+    "name": "Gary",
+    "url": "https://github.com/oscarliu0924-pixel"
+  },
+  "repository": "https://github.com/oscarliu0924-pixel/male-swimming-",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "夏日男性泳装抓拍",
+    "shortDescription": "生成或编辑自然真实的成年男性夏季泳装抓拍照片",
+    "longDescription": "根据文字或参考图生成成年男性夏季泳装照片，支持单人、多人、真人身份保持、COS角色转译和连续增量修改。每次输出一张独立照片，强调私人相册感、真实互动和自然摄影瑕疵。",
+    "developerName": "Gary",
+    "category": "Creative",
+    "capabilities": ["Image generation", "Image editing"],
+    "defaultPrompt": [
+      "生成一张成年男性在泳池边的自然夏日抓拍照。",
+      "根据我上传的照片，在保持人物身份的前提下更换泳裤和姿势。",
+      "把参考人物转译成可辨识的成年男性角色泳装COS。"
+    ],
+    "brandColor": "#168AAD"
+  }
+}
