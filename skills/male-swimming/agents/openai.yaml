@@ -1,0 +1,8 @@
+interface:
+  display_name: "夏日男性泳装抓拍"
+  short_description: "生成、COS或增量编辑真实自然的成年男性泳装照片"
+  brand_color: "#168AAD"
+  default_prompt: "Use $male-swimming to create or edit one candid adult male summer swimwear photograph."
+
+policy:
+  allow_implicit_invocation: true
